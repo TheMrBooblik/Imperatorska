@@ -1,0 +1,108 @@
+html {
+  font-family: serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+@media (max-width: 857px) {
+.logo {float: left; width: 100%;}
+.contacts {float: right; width: 100%; text-align: right;}
+.sakasat {float: right; width: 100%;}
+.potreb-left {float: left; width: 100%;}
+.potreb-right {float: right; width: 0%;}
+.potreb-right img {float: right; width: 0%;}
+.water-elements {width: 100%; font-size: 13px;}
+.about-water {font-size: 13px;}
+.ob-item {font-size: 15px;}
+.ob-item img {width: 120px; height: 120px;}
+.delivery-conditions{margin-bottom: 40px;}
+.delivery-conditions img {width: 95%; margin: 0 auto; display: block; float: none;}
+.delivery-conditions h1{text-align:center;}
+.button-order{float:none; margin:0 auto; display:block;}
+.discount p {font-size: 23px;}
+.discount img {width: 250px; margin-top: 75px;}
+header{width: 100%; padding-top: 0;}
+#logo{display: block; margin: 0 auto; float:none;}
+.contacts{text-align: center; width: 100%;}
+.order{text-align: center; width: 100%;}
+#button-header{float:none;}
+/*ul#navigation {width: 95%;left: 1%;}
+ul#navigation li a {font-size: 11px;}*/
+ul#navigation{display:none;}
+.page{padding-top:10px;}
+#popupup {width: 90%;}
+.vacancii {font-size: 18px;}
+.red {font-size: 18px;}
+.red-sp {font-size: 16px;}
+.twenty {font-size: 16px;}
+.discount-text{text-align:center; padding-top: 70px;}
+}
+
+@media (max-width: 1200px) {
+	.vacancii {
+    font-size: 18px;
+    margin-top: 2.5em;
+  }
+  ul#navigation li a{
+	font-size: 14px;
+  }
+}
+
+@media (max-width: 490px) {
+#logo {float: left; width: 100%;}
+.logo {float: left; width: 100%;}
+.contacts {float: right; width: 100%; text-align: right;}
+.sakasat {float: right; width: 100%;}
+.potreb-left {float: left; width: 100%;}
+.potreb-right {float: right; width: 0%;}
+.potreb-right img {float: right; width: 0%;}
+.water-elements {width: 100%; font-size: 13px;}
+.about-water {font-size: 13px;}
+.ob-item {font-size: 14px;}
+.ob-item img {width: 120px; height: 120px;}
+.discount p {padding-top: 0;}
+.discount img {width: 200px;}
+header{width: 100%;}
+#logo{display: block; margin: 0 auto; float:none;}
+.contacts{text-align: center; width: 100%;}
+.order{text-align: center; width: 100%;}
+#button-header{float:none;}
+/*ul#navigation {width: 95%;left: 1%;}
+ul#navigation li a {font-size: 11px;}*/
+ul#navigation{display:none;}
+#popupup {width: 90%;}
+.vacancii {font-size: 14px;}
+.red {font-size: 16px;}
+.twenty {font-size: 14px;}
+h1, h2 {font-size: 19px;}
+.float-left{display:none;}
+.discount-text{text-align:center; padding-top: 70px;}
+.clr{font-size: 14px;}
+}
+
+@media (max-width: 979px) {
+}
+
+@media (min-width: 979px) and (max-width: 980px) {
+.ob-item {font-size: 16px;}
+.ob-item img {width: 180px; height: 180px;}
+}
+@media (min-width: 980px) {
+}

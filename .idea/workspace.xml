@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f247d55c-4aa2-4443-b39f-bb8874dea3fe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/---dev---/Speed_Google_before.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Speed_Google_before2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Speed_after.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Speed_before.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/backup/2018.01.28/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/backup/2018.02.10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/backup/2018.02.10/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/backup/2018.02.10/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/banners/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/1359215162_glass-of-water1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/350ANET.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/35AEN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/35AN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/400AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/45A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/45AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/45Ar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D1150R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D120E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D120F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D22E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D745ST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D75E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D90E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D910S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/D95F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Screenshot_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Screenshot_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Screenshot_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Screenshot_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Screenshot_86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V1133CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V118E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V118F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V118R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V127B.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V127B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V127Red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V127S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V195B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V205BST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208XE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V208XST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V220CF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V220CR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V230C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V650AE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V710CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V730CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V745CST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V745CSTb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V745CSTr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V760CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V802CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V802CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V900BS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V900CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/V900CSG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/a30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/bottles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/cooler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/dla-optovih.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/document1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/document2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/document3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/emkost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/h2-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/imperatorskaja-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/nav-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/o-dostavke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/o-oborudovanii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/o-vacancii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/o-vacancy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/o-vode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ok-vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ok-vk.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ok-vk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/pochemu-dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/pochemu-oborudovanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/pochemu-woda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/pochemu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/stakan-magnit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/stakan-samorez.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/vakansii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/vk-ok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/images_copy/zaliv_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/350ANET.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/35AEN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/35AN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/400AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/45A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/45AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/45Ar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D1150R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D120E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D120F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D22E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D745ST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D75E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D90E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D910S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/D95F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V1133CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V118E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V118F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V118R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V127B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V127Red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V127S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V195B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V205BST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208XE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V208XST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V220CF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V220CR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V230C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V650AE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V710CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V730CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V745CST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V745CSTb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V745CSTr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V760CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V802CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V802CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V900BS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/V900CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/a30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/bottles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/ca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/cooler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/dla-optovih.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/emkost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/imperatorskaja-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/o-dostavke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/o-oborudovanii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/o-vacancy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/pochemu-dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/pochemu-oborudovanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/pochemu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/stakan-magnit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/stakan-samorez.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/---dev---/Новая папка/wand.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imperatorska.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017_index_16-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017_index_19-12-new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017_index_19-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018_index_19-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Copy_10bespl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Tady_HDD/1/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Tady_HDD/2/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Tady_HDD/3/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/0001++.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/0001+.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/___Instagram/KzCqDQboEbk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/.csscomb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/css/cartonbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/css/cartonbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/css/libs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/css/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-4-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-6-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-7-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-8-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/image-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/pic-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/video-1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/video-2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/img/video-3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/js/cartonbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/js/cartonbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/js/libs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-4-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-6-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-7-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-8-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/image-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/pic-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/video-1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/video-2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/img/video-3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/js/cartonbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/less/cartonbox.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartonbox/src/less/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google557c1a18e10b3de9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google92562743bb9f296c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/googlef1eb5254c0398e5d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/closeX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar-black-border.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar-text-buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar-white-small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar-white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar4-hover.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/controlbar4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/fullexpand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/geckodimmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/loader.white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/Outlines.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/beveled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/drop-shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/glossy-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/outer-glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/rounded-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/outlines/rounded-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/resize.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/scrollarrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/zoomin.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/graphics/zoomout.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-full.packed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-ie6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-gallery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-gallery.packed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-html.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide-with-html.packed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide.packed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highslide/highslide1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1023_kuller-.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1359215162_glass-of-water1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2c8ba2b2-04b2-11e8-875f-000c29e999c6_1-470x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Verte-v-novogodnyuyu-skazk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bottle_icon.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bottles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cooler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cooler_icon.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/350ANET.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/35AEN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/35AN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/400AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/45A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/45AS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/45Ar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D1150R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D120E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D120F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D22E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D65EN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D745ST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D75E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D90E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D910S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/D95F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V1133CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V118E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V118F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V118R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V127B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V127Red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V127S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V195B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V205BST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208XE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V208XST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V220CF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V220CR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V230C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V650AE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V710CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V730CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V745CST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V745CSTb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V745CSTr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V760CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V802CE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V802CES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V900BS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V900CS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/V900CSG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/a30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/stakan-magnit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coolers/thumb1200_2629_1504019207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dla-optovih.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/--document3--.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/--document4--.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/.picasa.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/.picasaoriginals/.picasa.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/.picasaoriginals/document2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/document1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/document2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/documents/сан-эпид. экспертиза+.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/emkost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/h2-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/bottle_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/cooler_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/o-dostavke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/o-oborudovanii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/o-vacancy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/o-vode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/tablecooler_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imperatorskaja-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nav-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ok-vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ok-vk.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ok-vk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pochemu-dostavka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pochemu-oborudovanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pochemu-woda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pochemu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/present.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stakan-samorez.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tablecooler_icon.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tanks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tanks2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vk-ok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imperatorska.com.ua.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/is.mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modernizr.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/.scrutinizer.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/class.phpmaileroauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/class.phpmaileroauthgoogle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/Callback_function_notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/DomainKeys_notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/Note_for_SMTP_debugging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/extending.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/generatedocs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/docs/pop3_article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/DKIM.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/code_generator.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/contents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/contentsutf8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/exceptions.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/gmail.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/gmail_xoauth.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/images/phpmailer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/images/phpmailer_mini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/mail.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/mailing_list.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/pop_before_smtp.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/scripts/XRegExp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/scripts/shAutoloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/scripts/shBrushPhp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/scripts/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/scripts/shLegacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/send_file_upload.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/send_multiple_file_upload.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/sendmail.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/signed-mail.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/smtp.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/smtp_check.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/smtp_no_auth.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/ssl_options.phps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCore.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreDjango.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreEclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreEmacs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreFadeToGrey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreMDUltra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreMidnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shCoreRDark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeAppleScript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeDjango.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeEclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeEmacs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeFadeToGrey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeMDUltra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeMidnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeRDark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/shThemeVisualStudio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/examples/styles/wrapping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/extras/EasyPeasyICS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/extras/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/extras/htmlfilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/extras/ntlm_sasl_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/fakepopserver.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/fakesendmail.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/phpmailerLangTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/phpmailerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/runfakepopserver.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/test_callback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/test/testbootstrap-dist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/phpmailer/PHPMailer-master/travis.phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_i6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-ball_n9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/balls/b-head-decor_newyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/newyear2019g.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ny/ny.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send0000.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendmail/libeay32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendmail/sendmail.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendmail/sendmail.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendmail/ssleay32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telegram/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webstat/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webstat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yandex_6521f8b6b2892a88.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Старые Hot Frost.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/расходы_общий_отчет_380934817962_февраль2016.xls" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1008726888">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="80" />
+          <entry key="html" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="80" />
+          <entry key="HTML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1102549155">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="101" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="221448306">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="176" />
+          <entry key="html" value="261" />
+          <entry key="js" value="4" />
+          <entry key="php" value="181" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="176" />
+          <entry key="HTML" value="261" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="181" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="3" />
+          <entry key="js" value="6" />
+          <entry key="php" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PHP" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="96" column="67" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#1;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#2;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telegram/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2414">
+              <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ny/newyear2019g.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3383">
+              <caret line="199" column="50" selection-start-line="199" selection-start-column="50" selection-end-line="199" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ny/ny.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3893">
+              <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send0000.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1649">
+              <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section</find>
+      <find>to-left</find>
+      <find>inpu</find>
+      <find>помпа</find>
+      <find>новогод</find>
+      <find>popup</find>
+      <find>P</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/close.js" />
+        <option value="$PROJECT_DIR$/send.php" />
+        <option value="$PROJECT_DIR$/ny.css" />
+        <option value="$PROJECT_DIR$/ny/newyear2019g.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/ny/ny.css" />
+        <option value="$PROJECT_DIR$/responsive.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/telegram/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/cartonbox/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="813" />
+    <option name="y" value="6" />
+    <option name="width" value="1103" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Imperatorska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imperatorska" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imperatorska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imperatorska" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imperatorska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imperatorska" type="462c0819:PsiDirectoryNode" />
+              <item name="ny" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f247d55c-4aa2-4443-b39f-bb8874dea3fe" name="Default" comment="" />
+      <created>1532581832247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532581832247</updated>
+      <workItem from="1532581833672" duration="332000" />
+      <workItem from="1532582289395" duration="619000" />
+      <workItem from="1533914387678" duration="662000" />
+      <workItem from="1534277804430" duration="1267000" />
+      <workItem from="1534434212207" duration="2842000" />
+      <workItem from="1535996477367" duration="599000" />
+      <workItem from="1536157000412" duration="948000" />
+      <workItem from="1536223934275" duration="409000" />
+      <workItem from="1542135940826" duration="3711000" />
+      <workItem from="1542231358688" duration="2467000" />
+      <workItem from="1542553782096" duration="1564000" />
+      <workItem from="1543528533963" duration="1061000" />
+      <workItem from="1543851384724" duration="773000" />
+      <workItem from="1544373432161" duration="2067000" />
+      <workItem from="1544875694909" duration="5357000" />
+      <workItem from="1544883984634" duration="3262000" />
+      <workItem from="1545338837486" duration="3789000" />
+      <workItem from="1545585677624" duration="5206000" />
+      <workItem from="1545736781323" duration="3063000" />
+      <workItem from="1546530798427" duration="1315000" />
+      <workItem from="1546777007832" duration="721000" />
+      <workItem from="1548018646756" duration="480000" />
+      <workItem from="1548019149164" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/is.mobile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/close.js" />
+    <entry file="file://$PROJECT_DIR$/_Tady_HDD/3/send.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_Tady_HDD/2/send.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_Tady_HDD/1/send.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Группа/Вода/send.php" />
+    <entry file="file://$PROJECT_DIR$/ny.css" />
+    <entry file="file://$USER_HOME$/Documents/cartonbox-1.5.4/cartonbox-1.5.4/docs/css/cartonbox.css" />
+    <entry file="file://$PROJECT_DIR$/cartonbox/docs/index.html" />
+    <entry file="file://C:/Program Files/Git/ReleaseNotes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="96" column="67" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#1;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#2;n#span#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegram/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ny/newyear2019g.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="199" column="50" selection-start-line="199" selection-start-column="50" selection-end-line="199" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ny/ny.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send0000.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

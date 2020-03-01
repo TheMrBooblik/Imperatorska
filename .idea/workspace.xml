@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f247d55c-4aa2-4443-b39f-bb8874dea3fe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imperatorska-bot/helpers/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2017/2017_index_16-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2017/2017_index_19-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2017/2017_index_19-12_.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2018/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2018/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---dev---/backup/2018/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Copy_10bespl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Tady_HDD/1/send.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Tady_HDD/2/send.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Tady_HDD/3/send.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/0001++.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/0001+.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/___Instagram/KzCqDQboEbk.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/imperatorska-bot" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imperatorska-bot/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imperatorska-bot/config/default.json5" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot/src/config/default.json5" afterDir="false" />
@@ -35,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/imperatorska-bot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imperatorska-bot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imperatorska-bot/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/imperatorska-bot/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imperatorska.com.ua.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Старые Hot Frost.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/расходы_общий_отчет_380934817962_февраль2016.xls" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +99,7 @@
       <workItem from="1579812191541" duration="205000" />
       <workItem from="1579894929029" duration="1623000" />
       <workItem from="1581793317266" duration="1700000" />
-      <workItem from="1583055735254" duration="10538000" />
+      <workItem from="1583055735254" duration="11054000" />
     </task>
     <servers />
   </component>

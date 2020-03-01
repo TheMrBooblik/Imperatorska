@@ -1,6 +1,0 @@
-<Limit GET POST>
-	require valid-user
-</Limit>
-AuthType Basic
-AuthName "webstat"
-AuthUserFile /hosting/b9-18957/data/etc/imperatorska.com.ua.stat.passwd

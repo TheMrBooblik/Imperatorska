@@ -5,8 +5,8 @@ color: #06090f;
 margin: 0;
 }
 td, tr {padding: 0 10px; font-size: 18px; text-align: justify;}
-header{padding-top: 55px;}
-footer {text-align: center; width: 100%; height: 100px;}
+header{padding-top: 35px;}
+footer {text-align: center;}
 .clr {clear: both;}
 img {border: none;}
 a {border: none !important;}
@@ -21,7 +21,7 @@ h3 {color: #e30710;}
 #top_menu a {color: #22165d; height: 30px; text-decoration: none;}
 #clouds {background: url(images/clouds.png) top center no-repeat; padding: 0;}
 #logo{
-	float: left; max-width: 430px;
+	float: left; max-width: 430px; padding-top: 40px;
 }
 
 .heading-line{
@@ -35,7 +35,7 @@ h3 {color: #e30710;}
 .link-to-item:hover{
 	color:#0000FF; text-decoration: underline;
 }
-
+.main-col-jobs{width: 77%; clear: both; margin: -20px auto 0; max-height: 45%;}
 .contacts {text-align: right;}
 .order {float: right; width: 45%; margin: 10px 0;}
 .obtekaet-right {float: left; shape-outside: inset(1% round 45%); padding: 0 5px 5px 0;}
@@ -45,21 +45,24 @@ h3 {color: #e30710;}
 .potreb-right img {float: right; width: 100%; max-width: 400px;}
 .water-elements {float: left; font-style: italic; font-weight: bold; width: 31%; padding: 0 10px; font-size: 18px;}
 .about-water {float: left; padding: 30px; font-size: 18px; text-align:justify;}
-.page {width: 85%; clear: both; height: auto; margin: 0 auto;}
-.page-no-padding{width: 85%; clear: both; height: auto; margin: 0 auto;}
-.vacancies {font-weight: bold; text-shadow: 1px 1px 1px #000000; text-align: right;}
+.page {width: 85%; max-height: 600%; clear: both; margin: 0 auto;}
+.page-no-padding{width: 85%; max-height: 100%; clear: both; margin: 0 auto;}
+.jobs {color: #000000; font-size: 20px; font-weight: bold; text-align: right; width: 50%; float: right;}
 .discount {clear: both; background: url(images/water.png) top center repeat-x; height: 400px; margin: 15px 0;}
 .discount p {font-weight: bold; text-shadow: 1px 1px 1px #000000; color: #ffffff;}
 .discount img {width: 390px;}
-.discount-text{color: #ffffff; text-align: right; padding-top: 100px;}
-.discount-text-red {color: #e30710; font-size: 47px; font-weight: bold;}
+#discount-text-1{text-align: center; padding-top: 100px;}
+.discount-text{color: #ffffff; text-align: right; padding-top: 120px;}
+.discount-text-red {color: #e30710; font-size: 35px; font-weight: bold;}
 .discount-text-white {font-weight: bold; text-shadow: 1px 1px 1px #000000; color: #ffffff; font-size: 26px;}
 .discount-text-description {font-size: 15px; color: white;}
 .discount-text-italic{font-style:italic; font-size: 26px;}
-.red {color: #e30710; font-size: 24px; text-shadow: 1px 1px 1px #ffffff;}
+.red {color: #e30710; font-size: 30px; text-shadow: 1px 1px 1px #ffffff;}
 .red-sp {color: #e30710; font-weight: bold; font-size: 20px; text-align: center;}
 .twenty {font-size: 20px;}
-.button-order {
+.twenty a {font-size: 18px; text-decoration: none; color: #000000;}
+.fb-page {margin-left:10%;}
+.button-order{
 	padding: 12px 48px;
     color: white;
     border-radius: 5px;
@@ -81,7 +84,7 @@ h3 {color: #e30710;}
     background: #1200ff;
 }
 .coolers{text-align: center; margin-bottom: 30px;}
-.float-left {float: left; margin-top: -20px;}
+.float-left {float: left;}
 .delivery-conditions h1{text-align: right;}
 .delivery-conditions p{text-align: right;}
 img.to-left {float: left; vertical-align: middle;}
@@ -92,7 +95,7 @@ img.to-left {float: left; vertical-align: middle;}
     font-size: 20px;
     text-align: center;
 }
-.ob-item img {
+.ob-item img{
 	width: 200px; 
 	height: 200px;  
 	margin-right: 10px; 
@@ -222,8 +225,12 @@ position:fixed;width:100%;z-index:10000;top:0;left:0;text-align: center;
     transform: translate(-50%, -50%);
 }
 .feedback-form-block{max-width: 420px; padding: 20px;}
-#close {background-image:url(images/close.png);
-cursor:pointer;height:35px;width:35px; float: right;
+#close {
+    background-image:url(images/close.png);
+    cursor:pointer;
+    height:35px;
+    width:35px;
+    float: right;
 }
 a.images {background:url("images/knopka.png");display:block; 
 width:200px;height:30px;border:0; 
@@ -270,14 +277,13 @@ a.images:hover {
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
-	padding: 8px 11px 8px 36px;
+    padding: 8px 8px 8px;
 }
 
 .user_phone {
 	position: relative;
 }
 .user_phone:before {
-	content: "+38";
 	display: block;
 	color: #363636;
 	position: absolute;
@@ -302,6 +308,12 @@ input:not(:placeholder-shown) { }
     -moz-transition: all 0.5s;
     border-radius: 4px;
 }
+
+.btn_submit:hover {
+    background: #1873ff;
+    color: #fff;
+}
+
 .btn_submit.disabled {
 	color: #363636;
 	background: #ccc;
@@ -396,7 +408,7 @@ input:not(:placeholder-shown) { }
     transition: opacity .5s;
 }
 .overlay:target {
-    visibility: visible;
+    visibility: hidden;
     opacity: 1;
 }
 .popup {
@@ -407,6 +419,7 @@ input:not(:placeholder-shown) { }
     position: fixed;
     text-align: justify;
     left: 50%;
+    width: fit-content;
     z-index: 10;
     visibility: hidden;
 	
@@ -444,13 +457,14 @@ input:not(:placeholder-shown) { }
     display: block;
 }
 .overlay:target+.popup {
-    top: 25%;
+    top: 15%;
     opacity: 1;
     visibility: visible;
 }
 .popup p {
     font-size: 16px;
 	font-weight: normal;
+    text-align: left;
 }
 .popup li{
 	font-size: 16px;
@@ -529,4 +543,16 @@ input:checked + label {
 	margin: 0 auto;
 }
 
+.first-column{
+    float: left;
+}
 
+#emoil{
+    visibility: hidden;
+    display: block;
+}
+
+label:before {
+    margin: 0;
+    font-size: 18px;
+}
